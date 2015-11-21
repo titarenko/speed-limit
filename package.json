@@ -1,6 +1,6 @@
 {
   "name": "speed-limit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Limit promised function calls in your node.js app",
   "main": "index.js",
   "scripts": {
