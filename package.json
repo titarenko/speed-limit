@@ -1,0 +1,25 @@
+{
+  "name": "speed-limit",
+  "version": "1.0.0",
+  "description": "Limit promised function calls in your node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titarenko/speed-limit.git"
+  },
+  "keywords": [
+    "speed",
+    "rate",
+    "call",
+    "limit"
+  ],
+  "author": "Constantin Titarenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/titarenko/speed-limit/issues"
+  },
+  "homepage": "https://github.com/titarenko/speed-limit#readme"
+}
