@@ -1,6 +1,6 @@
 {
   "name": "speed-limit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Limit promised function calls in your node.js app",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
   "homepage": "https://github.com/titarenko/speed-limit#readme",
   "dependencies": {
     "bluebird": "^3.0.5",
-    "debug": "^2.2.0",
     "lodash": "^3.10.1"
   }
 }
