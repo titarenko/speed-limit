@@ -1,6 +1,6 @@
 var Promise = require('bluebird');
 var debug = require('debug')('speed-limit');
-var lodash = require('lodash');
+var _ = require('lodash');
 
 module.exports = limit;
 
